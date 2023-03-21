@@ -40,3 +40,23 @@
 // document.write(`El promedio del alumno es de: ${promedio}`);
 
 //! EJERCICIO 6
+// let clave1, clave2;
+// clave1 = prompt('Ingrese su clave');
+// clave2 = prompt('Ingrese nuevamente su clave');
+// if(clave1 == clave2){
+//     document.write('Su clave se guardo con éxito');
+// }else{
+//     alert('Las claves ingresadas no coinciden');
+// }
+
+//! EJERCICIO 7
+// let numero;
+// numero = parseInt(prompt('Por favor ingresa un número'));
+// if(numero > 0){
+//     alert('El número ingresado es positivo');
+// }else if(numero == 0) {
+//     alert('El número ingresado es igual a 0');
+// }else{ 
+//     alert('El número ingresado es negativo');
+// }
+
