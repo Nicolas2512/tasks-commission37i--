@@ -212,6 +212,34 @@
 // alert(`Cantidad de múltiplos de 15 ingresados: ${cantidadMultiplos15}`);
 // alert(`Valor acumulado de los números ingresados que son pares: ${numerosPares}`);
 
+//!EJERCICIO 17
+// let suma1 = 0, suma2 = 0, suma3 = 0, turnoMañana, turnoTarde, turnoNoche, promTurnoMañana, promTurnoTarde, promTurnoNoche;
+// for(let i=0; i<5; i++){
+// turnoMañana = parseInt(prompt(`Ingresar la edad del alumno correspondiente al turno mañana`));
+// suma1+= turnoMañana;
+// }
+// for(let i=0; i<6; i++){
+// turnoTarde= parseInt(prompt(`Ingresar la edad del alumno correspondiente al turno tarde`));
+// suma2+= turnoTarde;
+// }
+// for(let i=0; i<11; i++){
+// turnoNoche = parseInt(prompt(`Ingresar la edad del alumno correspondiente al turno noche`));
+// suma3+= turnoNoche;
+// }
+// promTurnoMañana = suma1 / 5;
+// promTurnoTarde = suma2 / 6;
+// promTurnoNoche = suma3 / 11;
+// document.write(`El promedio de edades del turno mañana es de: ${promTurnoMañana}<br>`);
+// document.write(`El promedio de edades del turno tarde es de: ${promTurnoTarde}<br>`);
+// document.write(`El promedio de edades del turno noche es de: ${promTurnoNoche}<br>`);
+// if(promTurnoMañana> promTurnoTarde && promTurnoMañana> promTurnoNoche){
+//     document.write(`El promedio de mayor edad es el turno mañana`);
+// }else if(turnoTarde>turnoMañana && turnoTarde> turnoNoche){
+//     document.write(`El promedio de mayor edad es el turno tarde`);
+// }else{
+//     document.write(`El promedio de mayor edad es el turno noche`);
+// }
+
 
 
 
